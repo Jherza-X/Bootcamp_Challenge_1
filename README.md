@@ -1,5 +1,7 @@
 # Bootcamp_Challenge_1
-Solution of Challenge 1 - Crowdfunding platforms for the UofT Data Visualization Boot Camp 
+Solution of Challenge 1 - Crowdfunding platforms for the UofT Data Visualization Boot Camp.
+
+
 Statistical Analysis Answer to the last two points
 •	Use your data to determine whether the mean or the median better summarizes the data.
 According to the scattered plots, the data appears to be homogeneously distributed. In this case, we can have an excellent approximation of symmetric data. In this case, the means seem to provide a good data summary.
